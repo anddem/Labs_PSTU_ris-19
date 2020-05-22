@@ -1,4 +1,0 @@
-E:\CPPsource\repos\Creativity\Release\Creativity.vcxprojAssemblyReference.cache
-E:\CPPsource\repos\Creativity\Release\Creativity.Calculator.resources
-E:\CPPsource\repos\Creativity\Release\Creativity.vcxproj.GenerateResource.cache
-E:\CPPsource\repos\Creativity\Release\Creativity.exe

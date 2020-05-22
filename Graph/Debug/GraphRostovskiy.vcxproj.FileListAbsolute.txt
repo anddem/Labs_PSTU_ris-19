@@ -1,4 +1,0 @@
-F:\cppFIles\GraphRostovskiy\Debug\GraphRostovskiy.exe
-F:\cppFIles\GraphRostovskiy\Debug\GraphRostovskiy.pdb
-E:\CPPsource\repos\GraphRostovskiy\Debug\GraphRostovskiy.exe
-E:\CPPsource\repos\GraphRostovskiy\Debug\GraphRostovskiy.pdb
