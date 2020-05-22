@@ -1,0 +1,15 @@
+F:\cppFIles\Creativity\Debug\Creativity.vcxprojAssemblyReference.cache
+F:\cppFIles\Creativity\Debug\Creativity.Calculator.resources
+F:\cppFIles\Creativity\Debug\Creativity.vcxproj.GenerateResource.cache
+F:\cppFIles\Creativity\Debug\Creativity.exe
+F:\cppFIles\Creativity\Debug\Creativity.pdb
+J:\Creativity\Debug\Creativity.vcxprojAssemblyReference.cache
+J:\Creativity\Debug\Creativity.Calculator.resources
+J:\Creativity\Debug\Creativity.vcxproj.GenerateResource.cache
+J:\Creativity\Debug\Creativity.exe
+J:\Creativity\Debug\Creativity.pdb
+E:\CPPsource\repos\Creativity\Debug\Creativity.vcxprojAssemblyReference.cache
+E:\CPPsource\repos\Creativity\Debug\Creativity.Calculator.resources
+E:\CPPsource\repos\Creativity\Debug\Creativity.vcxproj.GenerateResource.cache
+E:\CPPsource\repos\Creativity\Debug\Creativity.exe
+E:\CPPsource\repos\Creativity\Debug\Creativity.pdb

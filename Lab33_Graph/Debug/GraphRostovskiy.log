@@ -1,0 +1,33 @@
+﻿  Graph.cpp
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(239,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(241,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(244,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(250,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(253,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(323,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(389,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(390,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(399,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(443,43): warning C4305: аргумент: усечение из "double" в "GLfloat"
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(461,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(481,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(504,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(518,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(532,13): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(534,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(535,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(539,57): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(539,33): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(540,34): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(540,20): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(541,57): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(541,33): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(544,79): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(544,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(552,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(553,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(556,18): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(556,14): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(571,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\CPPsource\repos\GraphRostovskiy\Graph.cpp(575,21): warning C4018: <: несоответствие типов со знаком и без знака
+  GraphRostovskiy.vcxproj -> E:\CPPsource\repos\GraphRostovskiy\Debug\GraphRostovskiy.exe

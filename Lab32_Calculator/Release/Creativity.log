@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Calculator.cpp
+E:\CPPsource\repos\Creativity\Calculator.h(39,24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\CPPsource\repos\Creativity\Calculator.h(554,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\CPPsource\repos\Creativity\Calculator.h(555,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Creativity.cpp
+E:\CPPsource\repos\Creativity\Calculator.h(39,24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\CPPsource\repos\Creativity\Calculator.h(554,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\CPPsource\repos\Creativity\Calculator.h(555,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Creativity.vcxproj -> E:\CPPsource\repos\Creativity\Release\Creativity.exe
